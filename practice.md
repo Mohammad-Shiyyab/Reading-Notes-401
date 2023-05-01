@@ -1,7 +1,10 @@
 
 # What is it, how does it work and how do I get to one:
-Strength:
- There was a high school in Chicago in which the system was for students to succeed after several classes in order to graduate, and if they did not succeed in any stage, they got the result of “not yet.” This is a good idea because it gives you a path towards the future,This is a real turning point in how students deal with challenges and problems, and these challenges distinguish the student who faces a problem and thinks about it and finds solutions to it from the student who surrenders to it. Good, and scientists have found several theories for this situation, where they said that there are minds that think when faced with a problem and think of finding solutions to it, and there are minds that remain steadfast, and also scientists have discovered that the student must be exposed to a problem and try to find solutions to it and think about it in order to make a good generation.
+Linux has a graphical user interface and it works pretty much like the GUI's on other systems that you are familiar with such as Windows and OSX.
+This tutorial will focus instead on the command line (also known as a terminal) running Bash.
+If you're on a Mac then you'll find the program Terminal under Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up.
+If on Linux then you will probably find it in Applications -> System or Applications -> Utilities. Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'.
+If you are on Windows and intend to remotely log into another machine then you will need an SSH client. A rather good one is Putty (free) .
 
 # An introduction to the Linux directory system and how to get around it:
 An introduction to the Linux directory system and how to get around it.
