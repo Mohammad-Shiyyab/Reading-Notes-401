@@ -12,8 +12,9 @@
 
 | code401 | solution |
 | --- | ----------- |
-| read LAB1 | [401day1](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/day1.md) |
-| read LAB2 | [401day2](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/day2.md) |
+| read LAB1 | [401class1](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class1.md) |
+| read LAB2 | [401class2](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class2.md) |
+| read LAB3 | [401class3](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class3.md) |
 
 
 
