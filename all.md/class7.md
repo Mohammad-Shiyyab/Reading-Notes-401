@@ -17,3 +17,23 @@ The concept of scope rules how variables and names are looked up in your code. I
 ## In your own words, describe the purpose and importance of Big O notation in the context of algorithm analysis
 -----------------------------------------------------------------------------------
 the purpose of Big O notation is to describe the performance or complexity of an algorithm. so we can compare between algorithms and choose the best one, and we can know how much the algorithm will take time to run and how much memory it will take.
+import random
+
+def roll():
+    return random.randint(1,6)
+
+def count(amount):
+    count_ = 0
+    for i in range(1, amount+1):
+        if roll() == 3:
+            count_ += 1
+    return count_
+
+total = 0
+
+for i in range(1, 366):
+    total += count(i)
+
+print(total)
+
+The most important details in this text are related to float approximation, lists, for loops, indexes, adding values, removing items from lists, and len(list). For loops iterate over a list, while for loops iterate over a list. Indexes can be used to access values, add objects to the end of a list, or remove items from a list. Len(list) returns the length of a list.
