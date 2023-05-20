@@ -1,54 +1,25 @@
-# class 08
+# Class 08
+----------------------------------------------------------------
+## What is the basic syntax of Python list comprehension, and how does it differ from using a for loop to create a list? Provide an example of a list comprehension that squares the elements in a given list of integers
+------------------------------------------------------------------
+newlist = [expression for item in iterable if condition == True]
 
-Teaching: Using an analogy to explain linked lists
+In general, list comprehensions tend to be more efficient than using for loops to create lists. This is because list comprehensions are optimized for Python's interpreter, and the operations performed in the comprehension are executed at C speed, making them faster than equivalent operations performed using a for loop.
 
-Let's imagine you have a grocery list, and you want to keep track of the items you need to buy. You decide to use a piece of paper and write down the items one below the other. Each item on the list represents a node, and the connection between them is like a linked list.
+Example: that squares the elements
 
-An analogy can help us understand how linked lists work. In this analogy, each item on the grocery list is a node, and the connection between them is like a pointer. Let's go through the steps:
+nums = [1 , 2 , 3 , 4 , 5]
+sq = [x * x for num in nums]  #output: [1, 4 , 9, 16, 25]
 
-You start with an empty grocery list, which is like an empty linked list.
+## What is a decorator in Python?
+-----------------------------------------------------------------------
 
-You write down the first item you need to buy, let's say "Apples." This is like adding a node to the linked list.
+By definition, a decorator is a function that takes another function and extends the behavior of the latter function without explicitly modifying it.
 
-Then, you write down the next item, "Bananas," below "Apples." You draw an arrow from "Apples" to "Bananas," representing the connection between the nodes.
 
-You continue adding items to the list and drawing arrows to connect them, just like adding nodes and linking them in a linked list.
+# Explain the concept of decorators in Python. How do they work, and what are some common use cases for them? Provide an example of a simple decorator function from the reading
+-------------------------------------------------------------------------
 
-Now, imagine you want to find the second-to-last item on the list. You start at the beginning of the list and follow the arrows until you reach the second-to-last item.
+a decorator is a function that takes another function as an argument, adds some functionality to it, and then returns the original function. Decorators provide a way to modify the behavior of a function or class without changing its source code. They are commonly used for logging, debugging, profiling, and authentication.
 
-Finally, you can read the value of that item, which represents the second-to-last node's value in the linked list.
-
-This analogy helps to visualize the concept of linked lists, where each node contains a value and a reference to the next node. The connection between nodes allows traversal through the list to access specific nodes.
-
-Stacks and Queues are data structures that consists of Nodes. Each Node references the next Node in the stack, but does not reference its previous.
-
-Common terminology for a stack is Push, Pop, Top, Peek, and IsEmpty.
-
-Stacks follow these concepts: FILO First In Last Out, LIFO Last In First Out, and Stack Visualization.
-
-When pushing something to the stack, it becomes the new top, and when popping something from the stack, it pops the current top and sets the next top as top. Pushing a Node onto a stack will always be an O(1) operation.
-
-The most important details in this text are the steps involved in adding a Node to a stack.
-
-When adding a Node, it is assigned as the new top, with its next property equal to the original top.
-
-When adding a Node, it is re-assigned to the Node that lives below and the top Node is returned to the user.
-
-Popping a Node off a stack is the action of removing a Node from the top.
-
-Typically, you would check isEmpty before conducting a pop to ensure that an exception is not raised.
-
-A Queue is a list of Nodes or items that are added or removed from the queue.
-
-Peek is the action of viewing the value of the front Node in the queue.
-
-If called when the queue is empty, an exception will be raised.
-
-Peek O(1)
-
-ALGORITHM peek()
-// INPUT <-- none
-// OUTPUT <-- value of the front Node in Queue
-// EXCEPTION if Queue is empty
-
-   return front.value
+A decorator function takes a function or class as input and returns a new function or class that wraps the original one. When the decorated function or class is called, the wrapper function is executed instead, which can perform some actions before or after the original function or class is called.

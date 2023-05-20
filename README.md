@@ -20,6 +20,7 @@
 | read LAB6 | [401class6](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class6.md) |
 | read LAB7 | [401class7](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class7.md) |
 | read LAB8 | [401class8](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class8.md) |
+| read LAB8 | [401class8](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class8.md) |
 
 
 
