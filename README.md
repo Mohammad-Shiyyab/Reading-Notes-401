@@ -12,25 +12,24 @@
 
 | code401 | solution |
 | --- | ----------- |
-| read LAB1 | [401class1](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class1.md) |
-| read LAB2 | [401class2](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class2.md) |
-| read LAB3 | [401class3](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class3.md) |
-| read LAB4 | [401class4](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class4.md) |
-| read LAB5 | [401class5](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class5.md) |
-| read LAB6 | [401class6](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class6.md) |
-| read LAB7 | [401class7](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class7.md) |
-| read LAB8 | [401class8](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class8.md) |
-| read LAB8 | [401class8](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class8.md) |
-| read LAB9 | [401class9](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class9.md) |
-| read LAB11 | [401class11](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class11.md) |
-| read LAB12 | [401class12](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class12.md) |
-| read LAB13 | [401class13](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class13.md) |
-| read LAB14 | [401class14](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class14.md) |
-| read LAB15 | [401class15](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class15.md) |
-| read LAB16 | [401class16](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class16.md) |
-| read LAB17 | [401class17](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class17.md) |
-
-| read LAB26 | [401class26](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class26.md) |
+| read LAB-01 | [401class1](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class1.md) |
+| read LAB-02 | [401class2](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class2.md) |
+| read LAB-03 | [401class3](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class3.md) |
+| read LAB-04 | [401class4](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class4.md) |
+| read LAB-05 | [401class5](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class5.md) |
+| read LAB-06 | [401class6](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class6.md) |
+| read LAB-07 | [401class7](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class7.md) |
+| read LAB-08 | [401class8](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class8.md) |
+| read LAB-08 | [401class8](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class8.md) |
+| read LAB-09 | [401class9](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class9.md) |
+| read LAB-11 | [401class11](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class11.md) |
+| read LAB-12 | [401class12](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class12.md) |
+| read LAB-13 | [401class13](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class13.md) |
+| read LAB-14 | [401class14](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class14.md) |
+| read LAB-15 | [401class15](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class15.md) |
+| read LAB-16 | [401class16](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class16.md) |
+| read LAB-17 | [401class17](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class17.md) |
+| read LAB-26 | [401class26](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class26.md) |
 
 
 
