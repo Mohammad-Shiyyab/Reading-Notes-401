@@ -30,6 +30,7 @@
 | read LAB-16 | [401class16](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class16.md) |
 | read LAB-17 | [401class17](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class17.md) |
 | read LAB-26 | [401class26](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class26.md) |
+| read LAB-27 | [401class27](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class27.md) |
 
 
 
