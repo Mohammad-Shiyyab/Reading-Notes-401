@@ -1,5 +1,6 @@
 # Class 28 - Django CRUD and Forms
 
+
 ## How do Django Forms facilitate user input handling, and what are some key components of creating a form using the Django framework?
 
 Forms are a flexible mechanism for collecting user input because there are suitable widgets for entering many different types of data, including text boxes, checkboxes, radio buttons, date pickers and so on.
@@ -7,6 +8,7 @@ Forms are a flexible mechanism for collecting user input because there are suita
 Django provides a range of tools and libraries to help you build forms to accept input from site visitors, and then process and respond to the input.
 
 ## Explain the purpose of Django Templates in web development and describe how template inheritance can be utilized to improve code reusability and maintainability
+
 
 A template is a text file defining the structure or layout of a file (such as an HTML page), with placeholders used to represent actual content. A template is rendered with specific data to produce a final document. Django templates provide a way to generate HTML dynamically, and can be used to create HTML forms for submitting data to the server.
 
