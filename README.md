@@ -35,6 +35,8 @@
 | read LAB-29 | [401class29](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class-29.md) |
 | read LAB-30 | [401class30](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class-30.md) |
 | read LAB-31 | [401class31](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class-31.md) |
+| read LAB-32 | [401class32](https://github.com/Mohammad-Shiyyab/Reading-Notes-401/blob/main/all.md/class-32.md) |
+
 
 
 
