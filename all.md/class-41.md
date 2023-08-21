@@ -26,8 +26,10 @@ Next.js can serve static files, like images, under a folder called public in the
 
 For example, if you add an image to public/my-image.png, the following code will access the image:
 
-```function MyImage() {
+``` 
+function MyImage() {
   return <img src="/my-image.png" alt="my image" />
 }
 
-export default MyImage```
+export default MyImage
+```
